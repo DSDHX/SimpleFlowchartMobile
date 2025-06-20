@@ -4,8 +4,6 @@ This is a demonstration-focused Android application developed as a final course 
 
 The entire project is built from scratch using **Kotlin** and **Android Studio**, relying solely on the native Android Custom View system without any third-party charting or diagramming libraries.
 
-[English](README.md) \ [中文](README_CN.md)
-
 ---
 
 ## ✨ Features
