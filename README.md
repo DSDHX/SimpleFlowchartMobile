@@ -21,7 +21,9 @@ The entire project is built from scratch using **Kotlin** and **Android Studio**
 
 ## 📸 Screenshots & Demo
 
-![App Demo GIF](https://github.com/DSDHX/SimpleFlowchartMobile/blob/main/readme_file/demoGIF.gif)
+<div align="center">
+    <img src="https://github.com/DSDHX/SimpleFlowchartMobile/blob/main/readme_file/demoGIF.gif">
+</div>
 
 | Grid Canvas | Complete a Connection | Drag & Scale |
 | :---: | :---: | :---: |
